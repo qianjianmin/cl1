@@ -1,1 +1,21 @@
-ss://YWVzLTI1Ni1nY206ZEd0TWNrWkRhRnBSVmpZelRreDJORXc1WWpSelpETlFVbTlhZUc4MGNYYz1AeHVpLnFqbTEudXMua2c6Mzc0NTM#SG_SS
+{
+  "outbounds": [
+    {
+      "type": "socks",
+      "tag": "SG_socks",
+      "server": "xui.qjm1.us.kg",
+      "server_port": 37454,
+      "username": "hoRsEJte8L",
+      "password": "lPmmcMmQGq",
+      "version": "5"
+    },
+    {
+      "type": "http",
+      "tag": "SG_http",
+      "server": "xui.qjm1.us.kg",
+      "server_port": 37453,
+      "username": "2ZgYwgVczJ",
+      "password": "fSQ41NbjNC"
+    }
+  ]
+}
