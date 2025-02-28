@@ -1,21 +1,2 @@
-{
-  "outbounds": [
-    {
-      "type": "socks",
-      "tag": "SG_socks",
-      "server": "xui.qjm1.us.kg",
-      "server_port": 37454,
-      "username": "hoRsEJte8L",
-      "password": "lPmmcMmQGq",
-      "version": "5"
-    },
-    {
-      "type": "http",
-      "tag": "SG_http",
-      "server": "xui.qjm1.us.kg",
-      "server_port": 37453,
-      "username": "2ZgYwgVczJ",
-      "password": "fSQ41NbjNC"
-    }
-  ]
-}
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJTR0AxIiwKICAiYWRkIjogInh1aS5xam0xLnVzLmtnIiwKICAicG9ydCI6IDM3NDUzLAogICJpZCI6ICJkMmM1MDA1YS05N2I3LTQwY2ItZDY1NC00ZGQ5NmE1NTZiZGIiLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIiIsCiAgImF1dGhvcml0eSI6ICIiLAogICJ0bHMiOiAibm9uZSIsCiAgInNuaSI6ICIiLAogICJmcCI6ICIiCn0=
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJTR0AyIiwKICAiYWRkIjogInh1aS5xam0xLnVzLmtnIiwKICAicG9ydCI6IDM3NDU0LAogICJpZCI6ICIwZjgyZDYxNi02NTg2LTQ5MTctODM3Mi1hNDM1MDE3NjYxZDEiLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIiIsCiAgImF1dGhvcml0eSI6ICIiLAogICJ0bHMiOiAibm9uZSIsCiAgInNuaSI6ICIiLAogICJmcCI6ICIiCn0=
